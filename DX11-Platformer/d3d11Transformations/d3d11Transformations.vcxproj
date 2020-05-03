@@ -85,6 +85,9 @@
   <ItemGroup>
     <None Include="Effects.fx" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Netherbrick.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
